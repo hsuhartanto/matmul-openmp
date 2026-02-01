@@ -35,3 +35,4 @@ Select algorithm: 1=naive, 2=blocked: 1
 Computing A(2048 x 2048) * B(2048 x 2048) with 8 thread(s), alg=1
 Time elapsed: 2.462738 s
 Checksum (sum of C elements): 2.147265618046e+09
+
