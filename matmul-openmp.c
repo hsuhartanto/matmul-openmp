@@ -1,6 +1,6 @@
-/* matmul_omp_input.c
+/* matmul_openmp.c
  * Compile:
- *   gcc -O3 -fopenmp -march=native -o matmul_omp_input matmul_omp_input.c
+ *   gcc -O3 -fopenmp -march=native -o matmul_omp_input matmul-openmp.c
  * Run:
  *   ./matmul_omp_input
  * The program will prompt for m p n (A is m x p, B is p x n), number of threads,
